@@ -25,6 +25,7 @@ This page contains a non-exhaustive list with all websites using Anubis.
   * https://dev.sanctum.geek.nz/
   * https://canine.tools/
   * https://git.lupancham.net/
+  * https://dev.haiku-os.org
 * <details>
   <summary>The United Nations</summary>
   
